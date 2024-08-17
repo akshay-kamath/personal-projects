@@ -17,6 +17,7 @@ The **Customer Care Summary Alert** project provides an automated solution to su
 
 ```bash
 git clone https://github.com/yourusername/customer-care-summary-alert.git
+```
 
 ### Navigate to the Project Directory:
 
