@@ -52,21 +52,6 @@ Welcome to the **YouTube Script Writer**! This tool helps you generate engaging 
 
 7. **Review the generated script** along with a suggested title and relevant search engine results.
 
-   For example, if you enter the text:
-   
-    ```plaintext
-    Extract all the unique values from column "age"
-    ```
-
-   You will get a SQL query snippet output like:
-   
-    ```sql
-    SELECT DISTINCT age
-    FROM table_name;
-    ```
-
-   Note: Replace `table_name` and `age` with your actual table and column names as needed.
-
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
