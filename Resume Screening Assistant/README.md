@@ -54,7 +54,7 @@ To get started with the Resume Screening Assistant, follow these steps:
     ```env
     PINECONE_API_KEY=your_pinecone_api_key
     ```
-6. ## Run the Application
+6. **Run the Application**
 
 Start the Streamlit app:
 
