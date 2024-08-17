@@ -32,16 +32,19 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/yourusername/code-review-analyst.git
+```
 
 ##Navigate to the Project Directory:
 ```bash
 cd code-review-analyst
+```
 
 Set Up Environment Variables:
-```bash
-Create a .env file in the project directory and add your OpenAI API key:
-OPENAI_API_KEY=your_openai_api_key_here
 
+Create a .env file in the project directory and add your OpenAI API key:
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
+```
 
 ## Run the Application
 
@@ -49,6 +52,7 @@ Start the Streamlit app:
 
 ```bash
 streamlit run app.py
+```
 
 ## Usage
 
