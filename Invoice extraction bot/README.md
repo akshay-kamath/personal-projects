@@ -56,7 +56,6 @@ Start the Streamlit app:
 streamlit run app.py
 ```
 
-# Invoice Extraction Bot
 
 ## Usage
 
@@ -98,4 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **PyPDF** for PDF text extraction capabilities.
 
 
-```
+
