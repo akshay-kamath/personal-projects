@@ -6,10 +6,10 @@ from langchain.utilities.zapier import ZapierNLAWrapper
 import os
 
 # get from https://platform.openai.com/
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "<OPENAI_API_KEY>"
 
 # get from https://nla.zapier.com/docs/authentication/ after logging in):
-os.environ["ZAPIER_NLA_API_KEY"] = "sk-ak-dV0owIyoCEbQJVzZv5F1S5JG77"
+os.environ["ZAPIER_NLA_API_KEY"] = "<ZAPIER_NLA_API_KEY>"
 
 
 def email_summary(file):
@@ -38,6 +38,6 @@ def email_summary(file):
     print(result["text"])
 
     # Send email using zapier
-    agent.run("Send an Email to sharathraju489@gmail.com via gmail summarizing the following text provided below : "+result["text"])
+    agent.run("Send an Email to abc@gmail.com via gmail summarizing the following text provided below : "+result["text"])
 
 
