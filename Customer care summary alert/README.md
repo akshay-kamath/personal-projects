@@ -13,6 +13,11 @@ The **Customer Care Summary Alert** project provides an automated solution to su
 
 ## Setup
 
+### Clone the Repository:
+
+```bash
+git clone https://github.com/yourusername/customer-care-summary-alert.git
+
 ### Navigate to the Project Directory:
 
 ```bash
