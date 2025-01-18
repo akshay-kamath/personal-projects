@@ -21,8 +21,8 @@ This project is designed to generate custom Spotify playlists based on a given t
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/spotify-playlist-project.git
-    cd spotify-playlist-project
+    git clone https://github.com/akshay-kamath/personal-projects.git    
+    cd personal-projects/spotify-playlist-project
     ```
 
 2. **Install dependencies**:
