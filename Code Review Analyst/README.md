@@ -31,12 +31,12 @@ pip install -r requirements.txt
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/code-review-analyst.git
+git clone https://github.com/akshay-kamath/personal-projects.git
 ```
 
-##Navigate to the Project Directory:
+## Navigate to the Project Directory:
 ```bash
-cd code-review-analyst
+cd personal-projects/code-review-analyst
 ```
 
 Set Up Environment Variables:
