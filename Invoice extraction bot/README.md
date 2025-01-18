@@ -24,13 +24,13 @@ Ensure you have the following installed:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/invoice-extraction-bot.git
+git clone https://github.com/akshay-kamath/personal-projects.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd invoice-extraction-bot
+cd personal-projects/invoice-extraction-bot
 ```
 
 ## Set Up Environment Variables
