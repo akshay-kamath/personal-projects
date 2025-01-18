@@ -15,13 +15,13 @@ The Email Generator App is a Streamlit-based application that utilizes transform
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/email-generator-app.git
+git clone https://github.com/akshay-kamath/personal-projects.git
 ```
 
 ### Navigate to the Project Directory:
 
 ```bash
-cd email-generator-app
+cd personal-projects/email-generator-app
 ```
 
 ## Set Up Environment Variables
