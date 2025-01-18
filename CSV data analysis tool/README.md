@@ -16,9 +16,8 @@ I created this project to demonstrate how AI and natural language processing can
 - AI/ML Integration
 - Full-Stack Development
 - Data Processing & Analysis
-- Cloud Technologies
 
-The codebase is clean, extensible, and follows best practices. 
+The codebase is clean, extensible and follows best practices. 
 
 ## Installation
 
@@ -26,7 +25,7 @@ To get started with this project, clone the repository and install the dependenc
 
 ```bash
 git clone https://github.com/akshay-kamath/personal-projects.git
-cd personal-projects/csv-data-analysis-tool
+cd personal-projects/CSV\ data\ analysis\ tool
 
 pip install -r requirements.txt
 ```
