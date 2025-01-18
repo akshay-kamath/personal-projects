@@ -22,7 +22,7 @@ This project is designed to generate custom Spotify playlists based on a given t
 
     ```bash
     git clone https://github.com/akshay-kamath/personal-projects.git    
-    cd personal-projects/spotify-playlist-project
+    cd personal-projects/Spotify\ playlist\ project
     ```
 
 2. **Install dependencies**:
