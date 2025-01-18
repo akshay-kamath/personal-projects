@@ -25,8 +25,9 @@ The codebase is clean, extensible, and follows best practices.
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/csv-data-analysis-tool.git
-cd csv-data-analysis-tool
+git clone https://github.com/akshay-kamath/personal-projects.git
+cd personal-projects/csv-data-analysis-tool
+
 pip install -r requirements.txt
 ```
 
