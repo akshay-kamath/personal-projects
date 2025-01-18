@@ -21,7 +21,7 @@ git clone https://github.com/akshay-kamath/personal-projects.git
 ### Navigate to the Project Directory:
 
 ```bash
-cd personal-projects/email-generator-app
+cd personal-projects/Email\ generator\ app
 ```
 
 ## Set Up Environment Variables
