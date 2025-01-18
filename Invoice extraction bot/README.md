@@ -30,7 +30,7 @@ git clone https://github.com/akshay-kamath/personal-projects.git
 ### Navigate to the Project Directory
 
 ```bash
-cd personal-projects/invoice-extraction-bot
+cd personal-projects/Invoice\ extraction\ bot
 ```
 
 ## Set Up Environment Variables
