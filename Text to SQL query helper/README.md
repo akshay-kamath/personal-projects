@@ -19,8 +19,8 @@ The **Text To SQL Query Helper Tool** is a Python application designed to conver
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Text_To_SQL_Query_Helper_Tool.git
-   cd Text_To_SQL_Query_Helper_Tool
+   git clone https://github.com/akshay-kamath/personal-projects.git   
+   cd personal-projects/Text_To_SQL_Query_Helper_Tool
     ```
 2. **Install the required Python packages**:
 
