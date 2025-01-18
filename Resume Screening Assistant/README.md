@@ -17,8 +17,8 @@ To get started with the Resume Screening Assistant, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/resume-screening-assistant.git
-    cd resume-screening-assistant
+    git clone https://github.com/akshay-kamath/personal-projects.git
+    cd personal-projects/resume-screening-assistant
     ```
 
 2. **Create a Virtual Environment:**
