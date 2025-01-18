@@ -23,7 +23,7 @@ Welcome to the **Support Chatbot** project! This tool is designed to assist user
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/support-chatbot.git
+    git clone https://github.com/akshay-kamath/support-chatbot.git
     cd support-chatbot
     ```
 
