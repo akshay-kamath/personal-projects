@@ -16,13 +16,13 @@ The **Customer Care Summary Alert** project provides an automated solution to su
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-care-summary-alert.git
+git clone https://github.com/akshay-kamath/personal-projects.git
 ```
 
 ### Navigate to the Project Directory:
 
 ```bash
-cd customer-care-summary-alert
+cd personal-projects/customer-care-summary-alert
 ```
 
 ## Set Up Environment Variables
