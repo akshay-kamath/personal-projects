@@ -21,7 +21,7 @@ Welcome to the **YouTube Script Writer**! This tool helps you generate engaging 
 
     ```bash
     git clone https://github.com/akshay-kamath/personal-projects.git    
-    cd personal-projects/youtube-script-writer
+    cd personal-projects/Youtube\ script\ writer
     ```
 
 2. **Install the required packages:**
