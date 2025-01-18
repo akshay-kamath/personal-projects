@@ -19,13 +19,13 @@ Welcome to the **Marketing Campaign App**! This app is designed to generate mark
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/marketing-campaign-app.git
+git clone https://github.com/akshay-kamath/personal-projects.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd marketing-campaign-app
+cd personal-projects/marketing-campaign-app
 ```
 
 ## Set Up Environment Variables
