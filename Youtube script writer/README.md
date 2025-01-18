@@ -20,8 +20,8 @@ Welcome to the **YouTube Script Writer**! This tool helps you generate engaging 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/youtube-script-writer.git
-    cd youtube-script-writer
+    git clone https://github.com/akshay-kamath/personal-projects.git    
+    cd personal-projects/youtube-script-writer
     ```
 
 2. **Install the required packages:**
