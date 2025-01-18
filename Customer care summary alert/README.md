@@ -22,7 +22,7 @@ git clone https://github.com/akshay-kamath/personal-projects.git
 ### Navigate to the Project Directory:
 
 ```bash
-cd personal-projects/customer-care-summary-alert
+cd personal-projects/Customer\ care\ summary\ alert
 ```
 
 ## Set Up Environment Variables
