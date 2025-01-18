@@ -36,7 +36,7 @@ git clone https://github.com/akshay-kamath/personal-projects.git
 
 ## Navigate to the Project Directory:
 ```bash
-cd personal-projects/code-review-analyst
+cd personal-projects/Code Review Analyst
 ```
 
 Set Up Environment Variables:
