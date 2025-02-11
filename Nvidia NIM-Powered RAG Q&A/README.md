@@ -66,9 +66,9 @@ streamlit run app.py
 ```
 ## Performance Considerations
 
-The vector database is stored in memory; for large scale applications, consider using a persistent vector store.
-NVIDIA AI endpoints require an active API key, ensure you have sufficient quota.
-Document processing may take time depending on file size and number of documents.
+- The vector database is stored in memory; for large scale applications, consider using a persistent vector store.
+- NVIDIA AI endpoints require an active API key, ensure you have sufficient quota.
+- Document processing may take time depending on file size and number of documents.
 
 ## License
 
