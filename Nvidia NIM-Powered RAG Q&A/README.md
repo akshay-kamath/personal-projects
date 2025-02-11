@@ -59,10 +59,11 @@ streamlit run app.py
 
 ## Project Structure
 ```
-├── 📜  us_census/                 # Directory containing PDF documents
-├── 📜 app.py                      # Main Streamlit application
-├── 📜 requirements.txt            # List of dependencies
-├── 📜 README.md                   # Project documentation
+├── 📜  us_census/              # Directory containing PDF documents
+├──  app.py                      # Main Streamlit application
+├──  .env                        # Environment variables (ignored in .gitignore)
+├──  requirements.txt            # List of dependencies
+├──  README.md                   # Project documentation
 ```
 ## Performance Considerations
 
