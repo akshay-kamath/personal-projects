@@ -51,24 +51,23 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-Workflow
+## Workflow
 1. Click the "Documents Embedding" button to process and store document embeddings.
 2. Enter a query in the text input field.
 3. The system will retrieve and answer the query based on the stored embeddings.
 4. Expand "Document Similarity Search" to view the retrieved document chunks.
 
 ## Project Structure
-
-|-- us_census/                 # Directory containing PDF documents
-|-- app.py                     # Main Streamlit application
-|-- .env                        # Environment variables (ignored in .gitignore)
-|-- requirements.txt            # List of dependencies
-|-- README.md                   # Project documentation
-
+```
+├── 📜  us_census/                 # Directory containing PDF documents
+├── 📜 app.py                      # Main Streamlit application
+├── 📜 requirements.txt            # List of dependencies
+├── 📜 README.md                   # Project documentation
+```
 ## Performance Considerations
 
-The vector database is stored in memory; for large-scale applications, consider using a persistent vector store.
-NVIDIA AI endpoints require an active API key; ensure you have sufficient quota.
+The vector database is stored in memory; for large scale applications, consider using a persistent vector store.
+NVIDIA AI endpoints require an active API key, ensure you have sufficient quota.
 Document processing may take time depending on file size and number of documents.
 
 ## License
