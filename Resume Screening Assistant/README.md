@@ -80,9 +80,6 @@ streamlit run app.py
 - `Docs/`: Folder containing sample resumes for testing.
 
 ## Example Code
-
-Here is an example of how to use the app:
-
 1. Paste a job description, such as "Software Developer with experience in Python."
 2. Specify the number of resumes to return, e.g., "5."
 3. Upload a set of resumes from the "Docs" folder.
